@@ -102,4 +102,4 @@ All API outputs are available in the **screenshots** folder.
 ---
 
 ## 👩‍💻 Author
-**Kuruva Rajeshwari**
+**Gadipelli Sumanth**
